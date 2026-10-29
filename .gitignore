@@ -1,0 +1,7 @@
+node_modules/
+dist/
+# Variables d'environnement
+.env
+.env.*
+!.env.example
+*.log
